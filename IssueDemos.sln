@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NodeIdIssue", "NodeIdIssue\NodeIdIssue.csproj", "{ED844E71-17E3-4F7C-A57F-D40E54B797F0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CostAnalysisIssue", "CostAnalysisIssue\CostAnalysisIssue.csproj", "{99D6EDD6-BF2D-41B7-B339-2BCE4576322B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{ED844E71-17E3-4F7C-A57F-D40E54B797F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED844E71-17E3-4F7C-A57F-D40E54B797F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED844E71-17E3-4F7C-A57F-D40E54B797F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99D6EDD6-BF2D-41B7-B339-2BCE4576322B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99D6EDD6-BF2D-41B7-B339-2BCE4576322B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99D6EDD6-BF2D-41B7-B339-2BCE4576322B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99D6EDD6-BF2D-41B7-B339-2BCE4576322B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
