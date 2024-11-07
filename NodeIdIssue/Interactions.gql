@@ -1,0 +1,13 @@
+mutation mutation {
+    updateThing(id: "TXlUaGluZzpjZWE2NmZhMS1hZjYzLTQ0NDMtYTg0Zi00Mjc3MmY0YjAwZjk=") {
+        id
+        identifier
+    }
+}
+
+query query {
+    myThing(id: "cea66fa1-af63-4443-a84f-42772f4b00f9") {
+        id
+        identifier
+    }
+}
